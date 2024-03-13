@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on Full Stack Development
 - 💬 Ask me about Node.js, React.js
 - 👨‍💻 My [Projects](https://github.com/mani818686)
+- [Portfolio](https://mani818686.github.io/portfolio/)
 - 📫 How to reach me: **alimimanideep7@gmail.com**
 - 📄 More [About me](https://www.linkedin.com/in/alimi-manideep/)
 
