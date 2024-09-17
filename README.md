@@ -1,4 +1,4 @@
-#  <h1 align="center" >I'm Manideep Alimi </h1>
+#  <h1 align="center" >I'm Manideep A </h1>
 
 ## <h2 align="center"> Full Stack Developer </h2>  
 
