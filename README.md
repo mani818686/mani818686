@@ -4,7 +4,7 @@
 
 
 - 👯 I’m looking to collaborate on Full Stack Development
-- 💬 Ask me about Node.js, React.js, Python, Flask
+- 💬 Ask me about Node.js, React.js, Python, Flask, AWS
 - 👨‍💻 My [Projects](https://github.com/mani818686)
 
 
